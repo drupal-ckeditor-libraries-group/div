@@ -9,6 +9,9 @@
     "LGPL-2.1-or-later",
     "MPL-1.1"
   ],
+  "extra": {
+    "installer-name": "ckeditor/plugins/div"
+  },
   "support": {
     "issues": "https://github.com/ckeditor/ckeditor4/issues",
     "source": "https://github.com/ckeditor/ckeditor4/tree/master/plugins/div"
